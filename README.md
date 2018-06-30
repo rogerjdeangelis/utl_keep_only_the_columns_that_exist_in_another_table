@@ -10,6 +10,12 @@ Keep only the columns that exist in another table.  Keywords: sas sql join merge
     On sunday I get a template dataset which has the variables
     I  need to keep for the rest of the week.
     The name and type of extra variables on susequent days is not known.
+    
+    For Additional solutions see
+    Quentin McMullen
+    Keintz, Mark
+    on the end of this message
+
 
     Inspired by
     https://tinyurl.com/y99e9sug
